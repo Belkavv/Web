@@ -25,7 +25,7 @@
 4. *ссылка на страницу аккаунта*\
 \
 <kbd>
-    ![Header](/HomeWork_1/image/Header.jpg)
+    ![Header](/HomeWork_1/image/header.jpg)
 </kbd>
 
 ### *В разделе контент находятся:*
@@ -35,7 +35,7 @@
 4. *кнопка подтверждения поиска*\
 \
 <kbd>
-    ![Content](/HomeWork_1/image/Content.jpg)
+    ![Content](/HomeWork_1/image/content.jpg)
 </kbd>
 
 ### *В разделе футер находятся:*
@@ -45,7 +45,7 @@
 4. *описание и настройки поиска*\
 \
 <kbd>
-    ![Footer](/HomeWork_1/image/Footer.jpg)
+    ![Footer](/HomeWork_1/image/footer.jpg)
 </kbd>
 
 ## Задача 3: Внесити не менее 10 изменений на страницу с помощью инструмента разработчика
