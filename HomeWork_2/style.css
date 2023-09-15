@@ -1,0 +1,42 @@
+html{
+    background-color: rgba(231, 225, 225, 0.733);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-style: normal;
+    font-size: 1.8em;
+    font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+}
+
+h2{
+    color: rgb(0, 0, 0);
+}
+
+h4{
+    text-align: center;
+}
+
+table.container1{
+    background-color: rgb(193, 241, 241);
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 360px;
+}
+
+ol.container2{
+    text-align: left;
+
+}
+
+/* img{
+    display: flex;
+    position: relative;
+    margin: auto;
+} */
+
+p.img{
+    display: inline-block;
+    margin: auto;
+}
